@@ -6,6 +6,7 @@ Lab 27: React Testing And Deployment
 ## Links and Resources
 * [Submission PR](https://github.com/chloieparsons-401-advanced-javascript/lab-27-react-testing-and-deployment/pull/1)
 * [Travis](https://www.travis-ci.com/chloieparsons-401-advanced-javascript/-react-testing-and-deployment)
+* [Netlify](https://vigilant-perlman-a64d05.netlify.com/)
 
 
 ## Modules
