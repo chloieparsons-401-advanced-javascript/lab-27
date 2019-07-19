@@ -1,6 +1,10 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
-import "./footer.scss";
+import './footer.scss';
+
+/**
+ * Footer class contains the footer element for the app
+ */
 
 class Footer extends Component {
   render() {
