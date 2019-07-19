@@ -1,6 +1,6 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
-import "./header.scss";
+import './header.scss';
 
 /**
  * Header class contains the header element for the app

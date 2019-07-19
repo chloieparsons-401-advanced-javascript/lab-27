@@ -8,7 +8,7 @@ class Counter extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      counter: 0
+      counter: 0,
     };
   }
 
@@ -16,7 +16,7 @@ class Counter extends React.Component {
    * handleIncrement function contains the function for incrementing the counter
    */
 
-  handleIncrement = e => {
+  handleIncrement = (e) => {
     e.preventDefault();
     this.setState({ counter: this.state.counter + 1 });
   };
@@ -26,7 +26,7 @@ class Counter extends React.Component {
    */
 
 
-  handleDecrement = e => {
+  handleDecrement = (e) => {
     e.preventDefault();
     this.setState({ counter: this.state.counter - 1 });
   };

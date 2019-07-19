@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
-import Footer from "../components/footer/Footer";
-import Header from "../components/header/Header";
-import Counter from "../components/counter/Counter";
+import Footer from '../components/footer/Footer';
+import Header from '../components/header/Header';
+import Counter from '../components/counter/Counter';
 
-import "./app.scss";
+import './app.scss';
 
 /**
  * App Class contains application elements and renders them
